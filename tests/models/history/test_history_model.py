@@ -8,12 +8,12 @@ def test_request_history():
 
     expected_entries = [
         {
-            "text_to_translate": "Hi, would you like some ice cream?",
+            "text_to_translate": "Hello, I like videogame",
             "translate_from": "en",
             "translate_to": "pt"
         },
         {
-            "text_to_translate": "What time does the attraction open?",
+            "text_to_translate": "Do you love music?",
             "translate_from": "en",
             "translate_to": "pt"
         }
